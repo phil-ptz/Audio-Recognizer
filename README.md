@@ -1,1 +1,1 @@
-nimmt glaube ich audio auf und gibt in textdatei aus
+nimmt audio auf und konvertiert in textform (englisch)
